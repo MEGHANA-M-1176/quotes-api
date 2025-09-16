@@ -31,26 +31,26 @@ GET /quote
 
 ## 🛠️ Setup & Usage
 
-1️⃣ **Clone the repository**
+ **Clone the repository**
 
 ```bash
 git clone https://github.com/MEGHANA-M-1176/quotes-api.git
 cd quotes-api
 ```
 
-2️⃣ **Install dependencies**
+**Install dependencies**
 
 ```bash
 npm install
 ```
 
-3️⃣ **Run the server**
+ **Run the server**
 
 ```bash
 node server.js
 ```
 
-4️⃣ **Test in browser or Postman**
+ **Test in browser or Postman**
 
 * Visit 👉 `http://localhost:3000/quote`
 * Or 👉 `http://localhost:3000/quotes`
