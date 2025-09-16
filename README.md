@@ -1,3 +1,4 @@
+[![Quotes API](https://img.shields.io/badge/Quotes-API-blue)](https://github.com/MEGHANA-M-1176/quotes-api)
 
 # ✨ Quotes API
 
